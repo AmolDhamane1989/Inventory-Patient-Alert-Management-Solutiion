@@ -1,0 +1,6 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AmolDhamane1989/Inventory-Patient-Alert-Management-System.git
+git push -u D:\Backup\Projects\Personal\IPA\IPA Design Flow 1.0
